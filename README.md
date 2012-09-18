@@ -1,4 +1,4 @@
-[ProfileButton](http://initarray.com/) - Android sound profile widget
+[ProfileButton](https://github.com/zerowang/ProfileButton) - Android sound profile widget
 =====================================================================
 
 How to use
